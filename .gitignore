@@ -2,3 +2,4 @@
 20_scripts/20_metabolites_honda/
 20_scripts/30_bacterial_supernatant/gregor_previous_work/
 .ipynb_checkpoints
+**/*.err
